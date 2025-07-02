@@ -1,5 +1,4 @@
 import numpy as np
-import numpy as np
 
 Mat_A = np.array([
                   [1  , 2 , 3, 6, 1],
